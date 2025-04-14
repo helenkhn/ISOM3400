@@ -1,7 +1,6 @@
 import streamlit as st 
 # https://pypi.org/project/googletrans-py/ 
 # pip install googletrans-py
-pip install googletrans-py
 from googletrans import Translator
 import time
 
